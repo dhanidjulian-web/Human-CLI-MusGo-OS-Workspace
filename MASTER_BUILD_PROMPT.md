@@ -24,7 +24,7 @@ without identifying the affected specification first.
 ## SPECIFICATION SOURCE
 
 The complete specification set is stored in the project's
-Google Drive library.
+Github library.
 
 Source:
 
