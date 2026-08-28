@@ -64,6 +64,8 @@ path:
 
 4. https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/Ragmyai%20Agent%20Integrated%20Prompt.md
 
+# JANGAN PERNAH GUNAKAN MODUL SIMULATION, MOCKUP, FAKE, DUMMY. BUAT JADI REAL WORLD APP ASLI DUNIA NYATA.
+
 ---
 
 ## IMPORTANT
