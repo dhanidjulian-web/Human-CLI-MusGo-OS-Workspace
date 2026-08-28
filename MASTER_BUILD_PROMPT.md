@@ -26,16 +26,26 @@ without identifying the affected specification first.
 The complete specification set is stored in the project's
 Github library.
 Source:
+
 https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace.git
 
-Read and understand the specification documents before
+https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/MASTER_BUILD_PROMPT.md
+
+https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/MusGo-OS%20Audit%20Fix%20Completion%20Prompt.md
+
+https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/Ragmyai%20Agent%20Integrated%20Prompt.md
+
+## Read and understand the specification documents before
 implementing major functionality.
 
 The documents are ordered:
-path:
-1. https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/MASTER_BUILD_PROMPT.md
 
-2. https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/tree/main/source/reference
+Link:
+
+https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/tree/main/source/reference
+
+Path:
+Human-CLI-MusGo-OS-Workspace/tree/main/source/reference
 
 01 PROJECT_CONSTITUTION.md
 02 PRODUCT_SCOPE.md
@@ -59,10 +69,6 @@ path:
 20 BUILD_STATE.md
 21 AGENT_HANDOVER.md
 22 DESIGNARENA_BUILD_PROMPTS.md
-
-3. https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/MusGo-OS%20Audit%20Fix%20Completion%20Prompt.md
-
-4. https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace/blob/main/Ragmyai%20Agent%20Integrated%20Prompt.md
 
 # JANGAN PERNAH GUNAKAN MODUL SIMULATION, MOCKUP, FAKE, DUMMY. BUAT JADI REAL WORLD APP ASLI DUNIA NYATA.
 
