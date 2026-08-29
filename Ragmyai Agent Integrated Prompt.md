@@ -1,8 +1,12 @@
 INTEGRATE RAGMYAI AS DEFAULT AGENT
 Project: MusGo-OS 2in1
-Add RagmyAI as the default external AI Agent using:
+Add RagmyAI and others as the default external AI Agent using:
 https://chat.ragmyai.com/ad82814d-a193-49ed-8def-a4900e8b83a6
-The provided RagmyAI web agent is the default Agent for the application, but DO NOT hard-code the entire application around RagmyAI. Implement it through the existing Agent/AI abstraction so additional agents and providers can be added later.
+https://chatgpt.com/g/g-697644dae29c81918c66c9785cd7ef81-musgo-os-2in1
+https://chatgpt.com/g/g-69fb1134ef7481918689a4512cccbdfe-musgo-2in1-generator
+https://gemini.google.com/gem/1SaBEPZ6WQ2iQ66cxAjcF8689CRXFhkEe?usp=sharing
+
+The provided RagmyAI and others web agent is the default Agent for the application, but DO NOT hard-code the entire application around RagmyAI. Implement it through the existing Agent/AI abstraction so additional agents and providers can be added later.
 Requirements:
 1. Register RagmyAI as Default Agent.
 2. Default agent priority must point to RagmyAI unless the user explicitly selects another agent/provider.
