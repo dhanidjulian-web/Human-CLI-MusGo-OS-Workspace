@@ -23,9 +23,7 @@ without identifying the affected specification first.
 
 ## SPECIFICATION SOURCE
 
-The complete specification set is stored in the project's
-Github library.
-Source:
+The complete specification set is stored in the project's Github Repository.Source:
 
 https://github.com/dhanidjulian-web/Human-CLI-MusGo-OS-Workspace.git
 
